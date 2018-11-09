@@ -1,0 +1,7 @@
+C:\Users\haruna\Documents\Visual Studio 2017\Projects\TUNA\TUNA\bin\TUNA.dll
+C:\Users\haruna\Documents\Visual Studio 2017\Projects\TUNA\TUNA\bin\TUNA.pdb
+C:\Users\haruna\Documents\Visual Studio 2017\Projects\TUNA\TUNA\obj\Debug\TUNA.csproj.CoreCompileInputs.cache
+C:\Users\haruna\Documents\Visual Studio 2017\Projects\TUNA\TUNA\obj\Debug\TUNA.dll
+C:\Users\haruna\Documents\Visual Studio 2017\Projects\TUNA\TUNA\obj\Debug\TUNA.pdb
+C:\Users\haruna\AppData\Roaming\Grasshopper\Libraries\TUNA\bin\TUNA.dll
+C:\Users\haruna\AppData\Roaming\Grasshopper\Libraries\TUNA\bin\TUNA.pdb
